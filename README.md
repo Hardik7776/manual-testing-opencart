@@ -8,4 +8,4 @@ Recommended naming:
 - `TC_CART_010_Fail.png`
 - `BUG_001_Evidence.png`
 
-Do not upload real passwords, payment details, personal addresses, or other sensitive information.
+
